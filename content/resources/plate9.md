@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: Supporting file for Problem set 8.
+file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/346ffbecdc9e630b8334565e355e6457_plate9.qif
+file_type: text/plain
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+parent_uid: 07a53e32-68bc-d0f1-3aa5-4168ebe767ad
+resourcetype: Other
+title: plate9.qif
+uid: 346ffbec-dc9e-630b-8334-565e355e6457
+---
