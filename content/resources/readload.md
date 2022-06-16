@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reads a load. Supporting file for Problem set 6.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/5778fc659b06e66953a21cdabcec8985_readload.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/5778fc659b06e66953a21cdabcec8985_readload.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: readload.m
 uid: 5778fc65-9b06-e669-53a2-1cdabcec8985
 ---
+Reads a load. Supporting file for Problem set 6.
+

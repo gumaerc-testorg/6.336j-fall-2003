@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem set 6.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/012950eff7ba71b1ded858c1d016a110_test4.sys
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/012950eff7ba71b1ded858c1d016a110_test4.sys
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: test4.sys
 uid: 012950ef-f7ba-71b1-ded8-58c1d016a110
 ---
+Supporting file for Problem set 6.
+

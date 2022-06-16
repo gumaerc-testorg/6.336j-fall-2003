@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem sets 2 and 3.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/d60ff2161f0509a5aac8da233eb063a0_qr_.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/d60ff2161f0509a5aac8da233eb063a0_qr_.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: qr_.m
 uid: d60ff216-1f05-09a5-aac8-da233eb063a0
 ---
+Supporting file for Problem sets 2 and 3.
+

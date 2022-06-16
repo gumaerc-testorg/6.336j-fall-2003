@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem set 1.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/03a8794c9039bb5215481326590b6d20_readckt.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/03a8794c9039bb5215481326590b6d20_readckt.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: readckt.m
 uid: 03a8794c-9039-bb52-1548-1326590b6d20
 ---
+Supporting file for Problem set 1.
+

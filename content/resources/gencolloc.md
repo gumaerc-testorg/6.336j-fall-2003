@@ -2,7 +2,7 @@
 content_type: resource
 description: Calculates a list of collocation points by computing panel centroids.
   Supporting file for Problem set 8.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/c49ce9b25f38126204b1c4898d5cd753_gencolloc.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/c49ce9b25f38126204b1c4898d5cd753_gencolloc.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: gencolloc.m
 uid: c49ce9b2-5f38-1262-04b1-c4898d5cd753
 ---
+Calculates a list of collocation points by computing panel centroids. Supporting file for Problem set 8.
+

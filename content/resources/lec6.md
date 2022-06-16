@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/27d0ff96c912a862ba47b64f1ce0cc7c_lec6.pdf
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/27d0ff96c912a862ba47b64f1ce0cc7c_lec6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,8 @@ parent_uid: 7f4244d7-236a-8966-c7c8-76c85c7f5fd9
 resourcetype: Document
 title: lec6.pdf
 uid: 27d0ff96-c912-a862-ba47-b64f1ce0cc7c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

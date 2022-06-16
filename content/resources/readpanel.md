@@ -2,7 +2,7 @@
 content_type: resource
 description: Reads a panel with vertices as floating point numbers on a line. Supporting
   file for Problem set 8.
-file: /media/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/577152b9272de6e6ef59e7c1efc2682d_readpanel.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/577152b9272de6e6ef59e7c1efc2682d_readpanel.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: readpanel.m
 uid: 577152b9-272d-e6e6-ef59-e7c1efc2682d
 ---
+Reads a panel with vertices as floating point numbers on a line. Supporting file for Problem set 8.
+
