@@ -5,6 +5,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/1e
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: calccap.m
 uid: 1e5233f6-5468-b9a2-acc5-7fb5402e21dd
 ---
 Permitivity of free space. Supporting file for Problem set 8.
-

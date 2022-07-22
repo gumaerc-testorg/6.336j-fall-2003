@@ -5,6 +5,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/fa
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: force.m
 uid: fabafe53-0203-b7d9-10ba-47f14902097d
 ---
 Determine the structural force. Supporting file for Problem set 6.
-

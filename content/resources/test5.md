@@ -5,6 +5,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/cf
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test5.sys
 uid: cf99da57-808c-6cd1-7c29-127674e7bf74
 ---
 Supporting file for Problem set 6.
-

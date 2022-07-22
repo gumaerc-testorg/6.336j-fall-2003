@@ -5,6 +5,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/0a
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sphere768.qif
 uid: 0a94deaa-87d5-fe08-789f-7280268a6073
 ---
 Supporting file for Problem set 8.
-

@@ -6,6 +6,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/46
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: readpanels.m
 uid: 46517204-cca6-94cb-f5a4-a6fa33f3ad81
 ---
 Read the file, line by line, and dispatch based on first character on line. Supporting file for Problem set 8.
-

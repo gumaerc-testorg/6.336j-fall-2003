@@ -5,6 +5,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/d6
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: qr_.m
 uid: d60ff216-1f05-09a5-aac8-da233eb063a0
 ---
 Supporting file for Problem sets 2 and 3.
-

@@ -6,6 +6,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/c4
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gencolloc.m
 uid: c49ce9b2-5f38-1262-04b1-c4898d5cd753
 ---
 Calculates a list of collocation points by computing panel centroids. Supporting file for Problem set 8.
-

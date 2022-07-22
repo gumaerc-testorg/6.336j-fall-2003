@@ -6,6 +6,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/7f
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: collocation.m
 uid: 7f05468b-15b8-7fac-a73e-cf40114b4b0f
 ---
 Fills in matrix relating panel charges to collocation point potentials. Supporting file for Problem set 8.
-

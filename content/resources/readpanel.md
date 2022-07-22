@@ -6,6 +6,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/57
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: readpanel.m
 uid: 577152b9-272d-e6e6-ef59-e7c1efc2682d
 ---
 Reads a panel with vertices as floating point numbers on a line. Supporting file for Problem set 8.
-

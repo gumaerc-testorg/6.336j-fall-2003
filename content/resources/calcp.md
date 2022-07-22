@@ -7,6 +7,7 @@ file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/9d
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: calcp.m
 uid: 9daec804-daf7-df45-d436-502493619b49
 ---
 Matlab version of calcp, returns potential at evaluation point due to unit monopole and unit dipole uniformly distributed on a panel. Supporting file for Problem set 8.
-
