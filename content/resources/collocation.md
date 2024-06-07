@@ -3,6 +3,7 @@ content_type: resource
 description: Fills in matrix relating panel charges to collocation point potentials.
   Supporting file for Problem set 8.
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/7f05468b15b87faca73ecf40114b4b0f_collocation.m
+file_size: 604
 file_type: text/plain
 learning_resource_types:
 - Assignments

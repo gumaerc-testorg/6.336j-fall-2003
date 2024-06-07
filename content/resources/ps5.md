@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/afb4f6763990659024d9bcf9841fac76_ps5.pdf
+file_size: 60266
 file_type: application/pdf
 learning_resource_types:
 - Assignments
