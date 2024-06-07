@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/2f4dc4597320b4709fa79130c8982ff9_lectures17_18.pdf
+file_size: 355510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

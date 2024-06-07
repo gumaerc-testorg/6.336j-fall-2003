@@ -2,6 +2,7 @@
 content_type: resource
 description: Reads a joint. Supporting file for Problem set 6.
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/b402137dc6aff6f08424a2fc73777a5a_readjoint.m
+file_size: 590
 file_type: text/plain
 learning_resource_types:
 - Assignments

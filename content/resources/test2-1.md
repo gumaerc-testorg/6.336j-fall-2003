@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Problem set 6.
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/fe62abf85b81f51dc27de43bcc697ca8_test2.sys
+file_size: 66
 file_type: text/plain
 learning_resource_types:
 - Assignments
