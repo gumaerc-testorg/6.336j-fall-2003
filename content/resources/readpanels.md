@@ -3,6 +3,7 @@ content_type: resource
 description: Read the file, line by line, and dispatch based on first character on
   line. Supporting file for Problem set 8.
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/46517204cca694cbf5a4a6fa33f3ad81_readpanels.m
+file_size: 1114
 file_type: text/plain
 learning_resource_types:
 - Assignments

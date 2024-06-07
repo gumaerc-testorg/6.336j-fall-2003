@@ -3,6 +3,7 @@ content_type: resource
 description: Reads an element with terms terminals described on line into List. Supporting
   file for Problem set 1.
 file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/3f2c9ae3020596b7134f87278e6e9e82_readelement.m
+file_size: 822
 file_type: text/plain
 learning_resource_types:
 - Assignments
