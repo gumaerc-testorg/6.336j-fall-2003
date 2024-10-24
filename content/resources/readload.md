@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reads a load. Supporting file for Problem set 6.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/5778fc659b06e66953a21cdabcec8985_readload.m
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/5778fc659b06e66953a21cdabcec8985_readload.m
 file_size: 538
 file_type: text/plain
 learning_resource_types:
