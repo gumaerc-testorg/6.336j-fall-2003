@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Plot the panels.  File to support problem set 8.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/05eea37972e6b10fe00ce83ac12ad58f_plotpanels.m
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/05eea37972e6b10fe00ce83ac12ad58f_plotpanels.m
 file_size: 587
 file_type: text/plain
 learning_resource_types:
