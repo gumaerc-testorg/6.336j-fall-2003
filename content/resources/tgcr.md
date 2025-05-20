@@ -2,7 +2,7 @@
 content_type: resource
 description: Generalized conjugate residual method for solving Mx = b. Supporting
   file for Problem set 4.
-file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/dbac326aa6f5ed3993d9a054c483a8cd_tgcr.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/dbac326aa6f5ed3993d9a054c483a8cd_tgcr.m
 file_size: 2049
 file_type: text/plain
 learning_resource_types:

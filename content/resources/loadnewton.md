@@ -2,7 +2,7 @@
 content_type: resource
 description: Evaluate the right-hand side and the jacobian for a newton's method.
   Supporting file for Problem set 6.
-file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/7a1da3d913718e9472c5aad78a7020f0_loadnewton.m
+file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/7a1da3d913718e9472c5aad78a7020f0_loadnewton.m
 file_size: 1986
 file_type: text/plain
 learning_resource_types:
