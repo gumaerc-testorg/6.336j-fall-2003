@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/9fa323c6887aa825ae7f374ecd8ab5a0_sps2.pdf
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/9fa323c6887aa825ae7f374ecd8ab5a0_sps2.pdf
 file_size: 170850
 file_type: application/pdf
 learning_resource_types:
