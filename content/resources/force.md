@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Determine the structural force. Supporting file for Problem set 6.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/fabafe530203b7d910ba47f14902097d_force.m
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/fabafe530203b7d910ba47f14902097d_force.m
 file_size: 325
 file_type: text/plain
 learning_resource_types:

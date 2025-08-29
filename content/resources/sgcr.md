@@ -2,7 +2,7 @@
 content_type: resource
 description: Generalized conjugate residual solution method. Supporting file for Problem
   set 4.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/1a495da486baf9f7316f1a142737c3b9_sgcr.m
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/1a495da486baf9f7316f1a142737c3b9_sgcr.m
 file_size: 2005
 file_type: text/plain
 learning_resource_types:
