@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem set 6.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/032112e1f9405cb7e0e6805d69241d1f_test11.sys
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/032112e1f9405cb7e0e6805d69241d1f_test11.sys
 file_size: 1602
 file_type: text/plain
 learning_resource_types:

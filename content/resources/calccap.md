@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Permitivity of free space. Supporting file for Problem set 8.
-file: /courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/1e5233f65468b9a2acc57fb5402e21dd_calccap.m
+file: /ol-ocw-studio-app/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/1e5233f65468b9a2acc57fb5402e21dd_calccap.m
 file_size: 857
 file_type: text/plain
 learning_resource_types:
