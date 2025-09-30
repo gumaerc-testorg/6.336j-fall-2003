@@ -95,7 +95,7 @@ Problem Set 8 ({{% resource_link 8bb856e7-761b-87b9-4875-c345244c5bc9 "PDF" %}})
 {{< tdopen >}}
 calccap.m ({{% resource_link 1e5233f6-5468-b9a2-acc5-7fb5402e21dd "M" %}}), calcp.m ({{% resource_link 9daec804-daf7-df45-d436-502493619b49 "M" %}}), collocation.m ({{% resource_link 7f05468b-15b8-7fac-a73e-cf40114b4b0f "M" %}}), gencolloc.m ({{% resource_link c49ce9b2-5f38-1262-04b1-c4898d5cd753 "M" %}}), plate144.qif ({{% resource_link 39dc1327-248b-a8fa-4d01-554b64dbc409 "QIF" %}}), plate36.qif ({{% resource_link f97bd374-29fa-768b-0da7-c72f9a0e17f6 "QIF" %}}), plate9.qif ({{% resource_link 346ffbec-dc9e-630b-8334-565e355e6457 "QIF" %}}), plotpanels.m ({{% resource_link 05eea379-72e6-b10f-e00c-e83ac12ad58f "M" %}}), readpanel.m ({{% resource_link 577152b9-272d-e6e6-ef59-e7c1efc2682d "M" %}}), readpanels.m ({{% resource_link 46517204-cca6-94cb-f5a4-a6fa33f3ad81 "M" %}}), sphere192.qif ({{% resource_link 56363b7b-a7e9-c226-498b-8cfe03b23d42 "QIF" %}}), sphere48.qif ({{% resource_link 8e5a77ae-6f4c-4c33-b220-5a1cb25d8124 "QIF" %}}), sphere768.qif ({{% resource_link 0a94deaa-87d5-fe08-789f-7280268a6073 "QIF" %}})  
   
-[Moldy molecular dynamics program](http://openlibrary.org/books/OL21640265M/user%27s_guide_to_MOLDY_a_molecular_dynamics_program)
+{{% resource_link "bbb7d1f7-aeb1-42ae-8fd2-ec09447ce363" "Moldy molecular dynamics program" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
