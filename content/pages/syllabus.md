@@ -17,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Overview
 
-This course is offered as part of the Singapore-MIT Alliance ([SMA](http://web.mit.edu/sma/)), and will be delivered at MIT (by MIT faculty) for MIT students and simultaneously broadcast to the National University of Singapore (NUS) for SMA students.
+This course is offered as part of the Singapore-MIT Alliance ({{% resource_link "a00a479d-4dda-4b6f-8b9f-c5084a01cf78" "SMA" %}}), and will be delivered at MIT (by MIT faculty) for MIT students and simultaneously broadcast to the National University of Singapore (NUS) for SMA students.
 
 ## MIT Units
 
@@ -29,7 +29,7 @@ Introduction to Numerical Simulation is an introduction to computational techniq
 
 ## Prerequisites
 
-18.03 or [18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) or equivalent; and familiarity with MATLAB®.
+18.03 or {{% resource_link "2835822b-5254-4225-be5a-efe22029ca13" "18.06" %}} or equivalent; and familiarity with MATLAB®.
 
 ## Instructors
 
